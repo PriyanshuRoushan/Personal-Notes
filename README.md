@@ -8,8 +8,8 @@ This project is being developed as a learning project to understand Laravel and 
 
 * Create notes
 * View notes
+* Delete notes 
 * Update notes *(coming soon)*
-* Delete notes *(coming soon)*
 * Form validation
 
 ## Tech Stack
